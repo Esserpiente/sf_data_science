@@ -31,6 +31,7 @@ def score_game(random_predict) -> int:
 
     Returns:
         int: среднее количество попыток
+        123
     """
 
     count_ls = [] # список для сохранения количества попыток
